@@ -2,8 +2,8 @@
 [![@kevintang's Holopin board](https://holopin.me/kevintang)](https://holopin.io/@kevintang)
 
 - 🔭 The director of the [Speech, Lexicon and Modelling Lab](https://slam.phil.hhu.de/) -- [@hhuslamlab](https://github.com/hhuslamlab/)
-- 🌱 I'm working at Departmenf of English Language and Linguistics at [Heinrich-Heine-Universität Düsseldorf](https://www.anglistik3.hhu.de/)
-- 💬 Ask me about computational linguistics
+- ⚡ Professor at the [Department of English Language and Linguistics at Heinrich-Heine-Universität Düsseldorf](https://www.anglistik3.hhu.de/)
+- 🤔 Interested in computational linguistics, phonetics, phonology and morphology
 - 📫 How to reach me: www.kevintang.org
 
 <!--
