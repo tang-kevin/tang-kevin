@@ -1,10 +1,11 @@
 ### Greetings 👋
-[![@kevintang's Holopin board](https://holopin.me/kevintang)](https://holopin.io/@kevintang)
 
 - 🔭 The director of the [Speech, Lexicon and Modelling Lab](https://slam.phil.hhu.de/) -- [@hhuslamlab](https://github.com/hhuslamlab/)
 - ⚡ Professor at the [Department of English Language and Linguistics at Heinrich-Heine-Universität Düsseldorf](https://www.anglistik3.hhu.de/)
 - 🤔 Interested in computational linguistics, phonetics, phonology and morphology
 - 📫 How to reach me: www.kevintang.org
+
+[![@kevintang's Holopin board](https://holopin.me/kevintang)](https://holopin.io/@kevintang)
 
 <!--
 **tang-kevin/tang-kevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
