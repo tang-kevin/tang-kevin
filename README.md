@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 [![@kevintang's Holopin board](https://holopin.me/kevintang)](https://holopin.io/@kevintang)
 
 - 🔭 The director of the [Speech, Lexicon and Modelling Lab](https://slam.phil.hhu.de/) -- [@hhuslamlab](https://github.com/hhuslamlab/)
